@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ainul Hasan Gausi</h1>
-<h3 align="center">Data Alchemist | AI Whisperer | Final-Year Engineering Student</h3>
+<h3 align="center">Data Scientist | AI Explorer | Final-Year Engineering Student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding-gif"/>
